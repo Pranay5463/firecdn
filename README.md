@@ -68,7 +68,7 @@ var firebaseConfig = {
 - Now you can host the website using Vercel / Netlify / Github Pages etc.
 
 ## Connect :
-- [Telegram](https://t.me/dark_elite_98)
+- [Telegram](https://t.me/ryen_py)
 
 
 ## Credits :
